@@ -1,4 +1,4 @@
-** Predictive Maintenance for Power Transformers in a Power Plant **
+## ** Predictive Maintenance for Power Transformers in a Power Plant **
 
 In the realm of power generation, ensuring the reliability and longevity of critical equipment such as transformers is paramount. This project focuses on the implementation of predictive maintenance for power transformers in a central power plant, leveraging a dataset containing chemical elements present in the transformers. The fluctuation in the concentration of these elements serves as an indicator of potential anomalies within the transformers.
 
